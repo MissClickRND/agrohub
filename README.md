@@ -15,6 +15,12 @@ AgroHub — комплексная цифровая система для фер
 | 🛠 Backend (NestJS + PostGIS + QGIS + Keycloak + TypeORM) | **https://github.com/MissClickRND/agrohub-backend** |
 | 📱 Mobile App (Kotlin + Jetpack Compose + OSM) | **https://github.com/bybuss/UMIRHack-7** |
 
+# 🔗 Реализованный проект
+
+| Версия | Ссылка |
+|--------|-------------|
+| 🌐 Веб-приложение | **https://agrohub.miss-click.ru/auth/login** |
+| 📱 Мобильное приложение (Rustore) | **https://github.com/bybuss/UMIRHack-7** |
 ---
 
 # 📌 Краткое описание проекта
