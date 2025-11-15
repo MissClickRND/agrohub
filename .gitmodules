@@ -1,0 +1,9 @@
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/bybuss/UMIRHack-7.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/MissClickRND/agrohub-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/MissClickRND/agrohub-frontend.git
